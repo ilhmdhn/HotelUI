@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hotel UI</string>
+    <string name="discover">Discover</string>
+    <string name="menu">Menu</string>
+    <string name="notification">Notification</string>
+    <string name="your_balance">Your Balance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recommended_hotels">Recommended Hotels</string>
+    <string name="top_up">Top Up</string>
+    <string name="dummy_money">IDR 9.200.301</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="order">Order</string>
+    <string name="profile">Profile</string>
+    <string name="view_all">View All</string>
+    <string name="new_hotels_experience">New Hotels Experience</string>
+    <string name="hotel_picture">Hotel Picture</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="rating">Rating</string>
+    <string name="price_start_from">Price Start from:</string>
+    <string name="night">/night</string>
+</resources>
